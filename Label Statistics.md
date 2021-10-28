@@ -1,3 +1,5 @@
+
+This is a table that shows all the labels and their frequencies in each partition of the dataset and some statistics about the label.
 |               Technique              | Train | Validation | Test | Avg Span Length | Avg Word Count |
 |:------------------------------------:|:-----:|:----------:|:----:|:---------------:|:--------------:|
 |            Loaded Language           | 1958  |     245    |  245 |      18.33      |      3.29      |
