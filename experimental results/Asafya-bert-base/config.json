@@ -1,0 +1,19 @@
+{
+    "MODEL_ID": "asafaya/bert-base-arabic",
+    "HIDDEN_SIZE": 768,
+    "DEVICE": "cuda",
+    "MAX_LEN": 200,
+    "TRAIN_BATCH_SIZE": 32,
+    "VALID_BATCH_SIZE": 16,
+    "TRAIN_VALID_TEST_SPLIT":
+    [
+        0.8,
+        0.1,
+        0.1
+    ],
+    "EPOCHS": 15,
+    "LEARNING_RATE": 0.00006,
+    "MODEL_PATH": "/content/drive/MyDrive/Grad/Grad Proj 2/Arabic_Prop/model.bin",
+    "NUM_LABELS": 14,
+    "ArabertPreprocessor": false
+}
