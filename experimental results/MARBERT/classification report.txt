@@ -1,25 +1,25 @@
 model name:  UBC-NLP/MARBERT 
 Arabert_Prep: False 
-Accuracy:  0.5388888888888889
+Accuracy:  0.6041666666666666
 
                                     precision    recall  f1-score   support
 
-               Appeal_to_Authority     0.0000    0.0000    0.0000        16
-          Appeal_to_fear-prejudice     0.3667    0.3235    0.3438        34
-    Bandwagon,Reductio_ad_hitlerum     0.0000    0.0000    0.0000         7
-           Black-and-White_Fallacy     0.2500    0.1538    0.1905        13
-         Causal_Oversimplification     0.2667    0.3478    0.3019        23
-                             Doubt     0.4773    0.3750    0.4200        56
-         Exaggeration,Minimisation     0.4510    0.4259    0.4381        54
-                       Flag-Waving     0.6111    0.3438    0.4400        32
-                   Loaded_Language     0.7061    0.7551    0.7298       245
-             Name_Calling,Labeling     0.6094    0.6290    0.6190       124
-                        Repetition     0.6615    0.5584    0.6056        77
-                           Slogans     0.4286    0.3529    0.3871        17
-       Thought-terminating_Cliches     0.0000    0.0000    0.0000         9
-Whataboutism,Straw_Men,Red_Herring     0.0000    0.0000    0.0000        13
+               Appeal_to_Authority     0.5000    0.5625    0.5294        16
+          Appeal_to_fear-prejudice     0.3611    0.3824    0.3714        34
+    Bandwagon,Reductio_ad_hitlerum     0.3750    0.4286    0.4000         7
+           Black-and-White_Fallacy     0.5000    0.3077    0.3810        13
+         Causal_Oversimplification     0.3243    0.5217    0.4000        23
+                             Doubt     0.7353    0.4464    0.5556        56
+         Exaggeration,Minimisation     0.5000    0.5370    0.5179        54
+                       Flag-Waving     0.6333    0.5938    0.6129        32
+                   Loaded_Language     0.7449    0.7510    0.7480       245
+             Name_Calling,Labeling     0.6667    0.6290    0.6473       124
+                        Repetition     0.6267    0.6104    0.6184        77
+                           Slogans     0.6667    0.4706    0.5517        17
+       Thought-terminating_Cliches     0.2500    0.3333    0.2857         9
+Whataboutism,Straw_Men,Red_Herring     0.1000    0.0769    0.0870        13
 
-                         micro avg     0.5757    0.5389    0.5567       720
-                         macro avg     0.3449    0.3047    0.3197       720
-                      weighted avg     0.5545    0.5389    0.5432       720
-                       samples avg     0.5389    0.5389    0.5389       720
+                         micro avg     0.6197    0.6042    0.6118       720
+                         macro avg     0.4989    0.4751    0.4790       720
+                      weighted avg     0.6300    0.6042    0.6124       720
+                       samples avg     0.6042    0.6042    0.6042       720

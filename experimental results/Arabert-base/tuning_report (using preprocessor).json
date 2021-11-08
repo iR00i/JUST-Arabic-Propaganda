@@ -1,0 +1,91 @@
+{
+    "config": 
+    {
+    	"MODEL_ID": "aubmindlab/bert-base-arabertv02",
+    	"ArabertPreprocessor": true,
+    	"HIDDEN_SIZE": 768,
+    	"DEVICE": "cuda",
+    	"MAX_LEN": 200,
+
+    	"TRAIN_BATCH_SIZE": 32,
+    	"VALID_BATCH_SIZE": 16,
+
+    	"EPOCHS": 10,
+    	"LEARNING_RATE": 6e-5,
+
+    	"MODEL_PATH": "/content/drive/MyDrive/Grad/Grad Proj 2/Arabic_Prop/Transformers/model.bin",
+    	"NUM_LABELS": 14,
+  	},
+    "report":
+    [
+        {
+            "learning_rate": 0.00001,
+            "Accuracy": 0.5375,
+            "f1-micro": 0.6094488188976377
+        },
+        {
+            "learning_rate": 0.00002,
+            "Accuracy": 0.5861111111111111,
+            "f1-micro": 0.6374622356495468
+        },
+        {
+            "learning_rate": 0.000030000000000000004,
+            "Accuracy": 0.6027777777777777,
+            "f1-micro": 0.6372980910425843
+        },
+        {
+            "learning_rate": 0.00004,
+            "Accuracy": 0.6111111111111112,
+            "f1-micro": 0.6432748538011697
+        },
+        {
+            "learning_rate": 0.00005,
+            "Accuracy": 0.6069444444444444,
+            "f1-micro": 0.6360989810771469
+        },
+        {
+            "learning_rate": 0.00006000000000000001,
+            "Accuracy": 0.6041666666666666,
+            "f1-micro": 0.6209850107066381
+        },
+        {
+            "learning_rate": 0.00007000000000000001,
+            "Accuracy": 0.6097222222222223,
+            "f1-micro": 0.6262482168330955
+        },
+        {
+            "learning_rate": 0.00008,
+            "Accuracy": 0.6,
+            "f1-micro": 0.629278951201748
+        },
+        {
+            "learning_rate": 0.00009,
+            "Accuracy": 0.6,
+            "f1-micro": 0.6247288503253796
+        },
+        {
+            "learning_rate": 0.0001,
+            "Accuracy": 0.6333333333333333,
+            "f1-micro": 0.6445229681978798
+        },
+        {
+            "learning_rate": 0.0002,
+            "Accuracy": 0.5555555555555556,
+            "f1-micro": 0.5930318754633062
+        },
+        {
+            "learning_rate": 0.00030000000000000003,
+            "Accuracy": 0.25972222222222224,
+            "f1-micro": 0.3659491193737769
+        },
+        {
+            "learning_rate": 0.0004,
+            "Accuracy": 0.25972222222222224,
+            "f1-micro": 0.3659491193737769
+        },
+        {
+            "Best_LEARNING_RATE": 0.0001,
+            "Score": 0.6445229681978798
+        }
+    ]
+}

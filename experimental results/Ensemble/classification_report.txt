@@ -1,8 +1,8 @@
 Using models:
 
-asafaya/bert-base-arabic
-UBC-NLP/ARBERT
-aubmindlab/bert-base-arabertv02
+asafaya/bert-base-arabic (from training)
+UBC-NLP/ARBERT (from tuning)
+aubmindlab/bert-base-arabertv02 (from tuning)
 
                                     precision    recall  f1-score   support
 
