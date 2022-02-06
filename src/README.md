@@ -1,2 +1,3 @@
 We provide the code for our systems open source. We recommend you take a look at the "Data_Exploration.ipynb" Jupyter notebook to see some statistics and visualizations of our dataset.
-We recommend launching our notebooks onto a Google colaboratory environment. The code is programmed in a way that makes it independent of any path issues since it relies mainly on cloning the github repo and using the datasets provided in the repo.
+We recommend launching our notebooks onto a Google colaboratory environment. The code is programmed in a way that makes it independent of any path issues since it relies mainly on cloning the github repo and using the datasets provided in the repo. <br>
+Note: The user should be careful with path variables related to saving models, visualizations and datasets in the code.
