@@ -1,3 +1,7 @@
+"""
+This is the code used to translate the Propaganda Techniques Corpus (PTC).
+The code uses the AWA API to translate the DataFrames (train, test and validation).
+"""
 import boto3
 import pandas as pd
 from tqdm import tqdm
