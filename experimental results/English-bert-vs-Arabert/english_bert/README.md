@@ -49,6 +49,6 @@ Whataboutism,Straw_Men,Red_Herring     0.0000    0.0000    0.0000        13
 ```
 
 Confusion Matrix:
-![confusion_matrices.png](confusion.png)
+![confusion.png](confusion.png)
 
 

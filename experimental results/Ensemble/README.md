@@ -27,6 +27,8 @@ Whataboutism,Straw_Men,Red_Herring     0.2500    0.0769    0.1176        13
                       weighted avg     0.6904    0.6250    0.6509       720
                        samples avg     0.6250    0.6250    0.6250       720
 ```
+Confusion Matrix:
+![confusion.png](confusion.png)
 
 Confusion Matrices:
 ![confusion_matrices.png](confusion_matrices.png)
